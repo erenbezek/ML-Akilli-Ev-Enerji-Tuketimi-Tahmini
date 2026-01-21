@@ -84,7 +84,7 @@ Grafik genel olarak modelin eğilimi öğrendiğini göstermektedir.
 ### 2. Model Çıktısı ve Sayısal Sonuçlar
 
 Aşağıda modelin R2 skoru,
-seçilen saat için yaptığı tahmin
+seçilen saat(20) için yaptığı tahmin
 ve pivot tablodan gelen normal değer görülmektedir.
 
 ![Model Sonucu](ekran2.png)
