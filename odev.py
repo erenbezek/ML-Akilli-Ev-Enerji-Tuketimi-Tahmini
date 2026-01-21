@@ -47,7 +47,7 @@ pivot_table.head()
 # modelin kullanacagi ozellikler
 features = ["hour", "temperature", "humidity", "pressure"]
 
-# Eksik satirlar var, atalim -->-anlamlandiramadigim hatalar cikiyor-
+# Eksik satirlar var, attim -->-anlamlandiramadigim hatalar cikiyor-
 model_df = df[features + ["use [kW]"]].dropna()
 
 
@@ -134,4 +134,5 @@ plt.show()
 # bu projede pivot tablo kullanilarak
 # evin normal tuketim aliskanligi cikarilmistir,
 # makine ogrenmesi modeli ile tahmin edilen degerler bu referans ile karsilastirilmistir.
+
 
