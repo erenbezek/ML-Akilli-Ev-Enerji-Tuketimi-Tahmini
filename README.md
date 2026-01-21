@@ -25,9 +25,9 @@ Veri setinde aşağıdaki bilgiler vardır:
 
 - Zaman bilgisi (Unix time)
 - Toplam enerji tüketimi (kW)
-- Sıcaklık (`temperature`)
-- Nem (`humidity`)
-- Basınç (`pressure`)
+- Sıcaklık (temperature)
+- Nem (humidity)
+- Basınç (pressure)
 
 Zaman verisi saat bilgisine dönüştürülmüştür.
 
