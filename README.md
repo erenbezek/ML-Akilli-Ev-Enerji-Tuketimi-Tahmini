@@ -57,9 +57,6 @@ Pivot tablosuz tahmin olabilir ama yorum mantıklı olmaz.
 
 ## Kullanılan Makine Öğrenmesi Modeli
 
-Bu proje bir regresyon problemidir.
-Çünkü tahmin edilen değer enerji tüketimi sürekli bir sayıdır.
-
 ### Kullanılan Model
 - Random Forest Regressor
 
