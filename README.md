@@ -16,8 +16,6 @@ ihtiyaç vardır bu da **pivot tablo kullanımı** ile yapılmıştr.
 - Tahmin edilen değer ile normal değer arasında karşılaştırma yaparak
   tüketimin **normal mi yoksa anormal mi** olduğunu yorumlamak  
 
-Bu proje sadece tahmin değil,
-yapılan tahminlerin anlamlı olması için yapılmıştır.
 
 ---
 
